@@ -5,7 +5,7 @@ Official PyTorch implementation of our paper:
 **Massive Activations in Large Language Models** </br>
 [Mingjie Sun](https://eric-mingjie.github.io/), [Xinlei Chen](https://xinleic.xyz/), [J. Zico Kolter](https://zicokolter.com/), [Zhuang Liu](https://liuzhuang13.github.io/) <br>
 Carnegie Mellon University, Meta AI Research and Bosch Center for AI  <br>
-[Paper]() - [Project page](https://eric-mingjie.github.io/massive-activations/index.html)
+[Paper](https://arxiv.org/abs/2402.17762) - [Project page](https://eric-mingjie.github.io/massive-activations/index.html)
 
 Most of the experiments in this paper were done on one A6000 GPU.
 
@@ -115,6 +115,6 @@ This project is released under the MIT license. Please see the [LICENSE](LICENSE
   title={Massive Activations in Large Language Models}, 
   author={Sun, Mingjie and Chen, Xinlei and Kolter, J. Zico and Liu, Zhuang},
   year={2024},
-  journal={arXiv preprint arXiv:2304.}
+  journal={arXiv preprint arXiv:2402.17762}
 }
 ```
