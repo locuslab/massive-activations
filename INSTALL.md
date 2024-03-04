@@ -1,7 +1,7 @@
 # Installation
 
 ## Dependencies
-Create an new conda virtual environment
+Create a new conda virtual environment
 ```sh
 conda create -n massive-activations python=3.9 -y
 conda activate massive-activations
